@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Flipkart%20GRID%206.0-Hackathon-0891b2?style=for-the-badge&logo=flipkart&logoColor=white" alt="Flipkart GriDlock 2.0" />
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-2.0-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/XGBoost-ML-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
-</p>
 
 <h1 align="center">🚦 Gridlock Intelligence</h1>
 <h3 align="center">AI-Driven Parking Intelligence & Congestion Impact Platform</h3>
