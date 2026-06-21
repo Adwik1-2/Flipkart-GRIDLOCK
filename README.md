@@ -842,6 +842,6 @@ Flipkart/
 ---
 
 <p align="center">
-  <b>Built with ❤️ for the Flipkart GRID 6.0 Hackathon</b><br/>
+  <b>Built with ❤️ for the Flipkart GriDLock 2.0 Hackathon</b><br/>
   <i>Gridlock Intelligence — Transforming reactive enforcement into proactive, data-driven operations.</i>
 </p>
