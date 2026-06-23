@@ -23,7 +23,8 @@ import {
   ResponsiveContainer,
 } from "recharts"
 
-const API_BASE = "http://localhost:8000"
+const API_BASE = "https://flipkart-gridlock-wmfj.onrender.com"
+
 
 interface Zone {
   zone_id: string
