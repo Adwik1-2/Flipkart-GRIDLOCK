@@ -15,8 +15,8 @@ import {
 } from "lucide-react"
 import KpiCard from "@/components/KpiCard"
 import LiveTicker from "@/components/LiveTicker"
+const API_BASE = "https://flipkart-gridlock-wmfj.onrender.com"
 
-const API_BASE = "http://localhost:8000"
 
 interface Allocation {
   van_id: number
