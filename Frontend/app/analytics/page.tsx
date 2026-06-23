@@ -30,7 +30,8 @@ import {
   Legend,
 } from "recharts"
 
-const API_BASE = "http://localhost:8000"
+const API_BASE = "https://flipkart-gridlock-wmfj.onrender.com"
+
 
 const PIE_COLORS = ["#ef4444", "#f97316", "#eab308", "#22c55e", "#06b6d4", "#8b5cf6", "#ec4899", "#64748b"]
 
