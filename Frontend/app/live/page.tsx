@@ -4,7 +4,8 @@ import { useState, useEffect, useRef } from "react"
 import { Radio, Filter, Pause, Play, AlertTriangle, Zap } from "lucide-react"
 import ViolationCard from "@/components/ViolationCard"
 
-const API_BASE = "http://localhost:8000"
+const API_BASE = "https://flipkart-gridlock-wmfj.onrender.com"
+
 
 interface Violation {
   violation_id: string
