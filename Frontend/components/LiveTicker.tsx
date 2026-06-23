@@ -18,7 +18,7 @@ interface LiveTickerProps {
   apiBase?: string
 }
 
-export default function LiveTicker({ apiBase = "http://localhost:8000" }: LiveTickerProps) {
+export default function LiveTicker({ apiBase = "https://flipkart-gridlock-wmfj.onrender.com" }: LiveTickerProps) {
   const [violations, setViolations] = useState<TickerViolation[]>([])
   const [connected, setConnected] = useState(false)
   const containerRef = useRef<HTMLDivElement>(null)
