@@ -7,7 +7,7 @@ interface CopilotPanelProps {
   apiBase?: string
 }
 
-export default function CopilotPanel({ apiBase = "http://localhost:8000" }: CopilotPanelProps) {
+export default function CopilotPanel({ apiBase = "https://flipkart-gridlock-wmfj.onrender.com" }: CopilotPanelProps) {
   const [open, setOpen] = useState(false)
   const [messages, setMessages] = useState<{ role: "user" | "ai"; text: string }[]>([
     { role: "ai", text: "Gridlock AI online. I can analyze current hotspots, recommend patrol deployments, and answer tactical queries. How can I help?" },
